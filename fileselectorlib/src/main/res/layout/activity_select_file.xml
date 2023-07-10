@@ -15,8 +15,8 @@
         app:abc_leftIconRes="@drawable/ic_back"
         app:abc_rightTextPaddingLeft="0dp"
         app:abc_rightTextPaddingRight="15dp"
-        app:abc_rightText="选择"
-        app:abc_titleText="文件选择" />
+        app:abc_rightText="Select"
+        app:abc_titleText="File Selection" />
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="33dp"
